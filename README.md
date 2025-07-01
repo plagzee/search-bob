@@ -21,7 +21,7 @@
 
 ## 🧩 No Installation Required
 
-Just download the ZIP from the [Releases](https://github.com/yourusername/search-bob/releases) tab and extract it.
+Just download the ZIP from the [Releases](https://github.com/plagzee/search-bob/releases) tab and extract it.
 
 ```bash
 📦 search-bob/
