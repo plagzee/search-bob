@@ -28,3 +28,4 @@ Just download the ZIP from the [Releases](https://github.com/plagzee/search-bob/
 ├── docs/                # Docs & screenshots
 ├── config.ini           # App config
 └── README.md
+```
