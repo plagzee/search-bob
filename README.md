@@ -9,13 +9,9 @@
 
 ## 🪟 Features
 
-- 🎨 Beautiful Windows XP–style UI using CustomTkinter
 - ⚡ Super-fast file searching using compiled `search.exe` backend
 - 🌍 Global drive-wide search support
 - 📁 Folder-specific local search
-- 📜 Real-time results
-- ⏳ Smooth animated progress bar
-- 🖱️ Right-click → “Show in Explorer”
 
 ---
 
