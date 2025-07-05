@@ -44,9 +44,9 @@ Just download the ZIP from the [Releases](https://github.com/plagzee/search-bob/
 ```mermaid
 graph LR
     A[Python UI] --> B[Writes to search.bin]
-    B --> C[search.exe (C backend)]
+    B --> C[search.exe - C backend]
     C --> D[Writes to searched.bin]
-    D --> E[Python UI loads & displays results]
+    D --> E[Python UI displays results]
 ```
 
 
